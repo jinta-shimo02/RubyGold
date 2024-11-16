@@ -40,3 +40,7 @@
 - [ ] Enumerator
 ### 標準添付ライブラリ
 - [ ] time, date, singleton, forwardable...etc
+
+## 試験結果
+- 点数：88/100
+- 学習期間：1ヶ月弱
