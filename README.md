@@ -42,5 +42,6 @@
 - [ ] time, date, singleton, forwardable...etc
 
 ## 試験結果
+- 結果：合格⭕️
 - 点数：88/100
 - 学習期間：1ヶ月弱
